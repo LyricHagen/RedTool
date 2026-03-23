@@ -1,0 +1,6 @@
+Feel free to put code that you want to reuse in multiple places here.
+
+Some ideas:
+- A configuration system: storing values like ips, ports, etc
+- A parge_args function to parse the arguments given by a command
+- A unified system to send/receive data from the payload
